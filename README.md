@@ -40,6 +40,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Transform & Transition
+- ::selection pseudo element
 - Mobile-first workflow
 - Google Fonts
 - [CSS Normalize](https://necolas.github.io/normalize.css/)
