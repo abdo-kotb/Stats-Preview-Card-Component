@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code on Github](https://github.com/abdo-kotb/Stats-Preview-Card-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://abdo-kotb.github.io/Stats-Preview-Card-Component/
 
 ## My process
 
